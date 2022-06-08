@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MarcosRian01/ProjectOpenBanking"><img src="https://user-images.githubusercontent.com/102832050/172510224-8c05d35f-ccfb-48b3-a005-f57efe7814ab.png" href="#https://github.com/MarcosRian01/ProjectOpenBanking"></a></img>
+  <a href="https://github.com/MarcosRian01/ProjectOpenBanking"><img src="https://user-images.githubusercontent.com/102832050/172666622-735dc8ac-18cf-462f-ada7-e7234c0075fc.png" href="#https://github.com/MarcosRian01/ProjectOpenBanking"></a></img>
 </p>
 
 <p align="center">
